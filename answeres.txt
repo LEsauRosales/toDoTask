@@ -1,0 +1,22 @@
+1.-
+    var obj1 =  objArr["id"] 
+    var idLts = [1,4,5]
+    if obj1 === idLts
+        console.log (obj1)
+    else:
+        console.log(obj1)
+
+    if obj1 !=== idLts
+        console.log (obj1)
+    else:
+        console.log(obj1)
+
+2.- SELECT
+        assets.asset_id as assetId,
+        assets.asset_name as assetName,
+        assets.asset_code as assetCode,
+        clients.client_ID as clientID,
+        clients.client_name as clientName
+    FROM assets
+    INNER JOIN clients 
+    ON clients.client_ID = assets.client_id

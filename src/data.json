@@ -1,0 +1,14 @@
+[
+    { 
+        "text": "Limpiar la cocina",
+        "completed": false
+    },
+    { 
+        "text": "Escribir ensayo",
+        "completed": true
+    },
+    { 
+        "text": "Pasear al perro",
+        "completed": false
+    }
+]
